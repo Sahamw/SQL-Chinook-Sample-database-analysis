@@ -32,6 +32,6 @@ Chinook Music Store, a renowned provider of digital music, is seeking to refine 
 
 Data set for the project was downloaded from Github Chinook database. The data set is a sample data set which used to showcase analytical skills to find different business answers using sql queries. 
 
-
+https://public.tableau.com/views/Chinook_17133708277960/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
