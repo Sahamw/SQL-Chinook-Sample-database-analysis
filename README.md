@@ -6,9 +6,32 @@ Chinook Music Store, a renowned provider of digital music, is seeking to refine 
 
 # Sales Analysis:
 
-•	What are the total sales revenues for each year in the dataset?
-•	How do sales revenues vary across different genres of music?
-•	Can we identify any seasonal trends or patterns in sales?
-•	Which are the top-selling tracks and albums, and what are their respective revenues?
-•	Which composer is the most popular among customers?
-•	Which artist brings the highest revenue?
+- **What are the total sales revenues for each year in the dataset?**
+- **How do sales revenues vary across different genres of music?**
+- **Can we identify any seasonal trends or patterns in sales?**
+- **Which are the top-selling tracks and albums, and what are their respective revenues?**
+- **Which composer is the most popular among customers?**
+- **Which artist brings the highest revenue?**
+
+# Customer Segmentation:
+
+- **What is the distribution of customers by country?**
+- **How does customer spending vary across different countries?**
+
+# Product Performance Evaluation:
+
+- **Which genres of music are most popular among customers?**
+- **Are there any underperforming genres that require attention?**
+- **What is the average revenue per track and album?**
+- **What is the favorite length of most preferred music tracks?**
+- **What are the three most popular playlists and ten most popular tracks?**
+- **Which media type is the most preferred?**
+- **Who are the five most popular artists?**
+
+<h1>Data set</h1>
+
+Data set for the project was downloaded from Github Chinook database. The data set is a sample data set which used to showcase analytical skills to find different business answers using sql queries. 
+
+
+
+
